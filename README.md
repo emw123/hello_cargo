@@ -2,7 +2,7 @@
 Overview
 In this assignement I went over some of the basic proceses found in the Rust programing language. My purpose in doing this project was to gain a better understanding of the Rust language, and to compare it to other languages that I know.
 
-Software Demo Video
+Software Demo Video https://youtu.be/oJTTHrS3idY
 
 Development Environment
 To develop this software, I used the Rust programming language, as well as Visual Studio code.
